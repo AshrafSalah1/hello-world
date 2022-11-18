@@ -7,6 +7,8 @@ Thanks to everyone who continues to contribute; new languages are created every 
 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
+# New Update from Ashraf Salah!
+
 <!--Languages start-->
 ## Languages (947 total)
 
